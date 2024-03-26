@@ -1,0 +1,5 @@
+/dist/**
+/node_modules/**
+vue.config.*
+jest.*
+babel.*

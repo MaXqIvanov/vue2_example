@@ -1,0 +1,4 @@
+include:
+  - project: 'hidden'
+    ref: new
+    file: 'main.gitlab-ci.yml'
